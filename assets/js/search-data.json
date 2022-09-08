@@ -6,8 +6,8 @@
 
   
       "page1": {
-          "title": "About Me",
-          "content": "This page intentionally left blank .",
+          "title": "about Me",
+          "content": "This page intentionally left blank. .",
           "url": "https://no-lineal.github.io/buchstabensalat/about/",
           "relUrl": "/about/",
           "date": ""
