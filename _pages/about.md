@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Me
+title: about Me
 permalink: /about/
 ---
 
-This page intentionally left blank
+This page intentionally left blank.
