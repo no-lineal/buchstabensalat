@@ -6,4 +6,4 @@ permalink: /about/
 
 This page intentionally left blank.
 
-[ goodreads ] (https://www.goodreads.com/no_lineal)
+<a href="https://www.goodreads.com/no_lineal">goodreads</a>
