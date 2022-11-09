@@ -1,5 +1,3 @@
-Sobre la creatividad
-
 ---
 layout: post
 title:  "Sobre la creatividad, la tecnología y yo"
